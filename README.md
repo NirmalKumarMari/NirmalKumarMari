@@ -29,7 +29,7 @@ M.S. student in **Information Management** at the **University of Washington** (
 | [APOGEE-Bayesian-Regression](https://github.com/NirmalKumarMari/APOGEE-Bayesian-Regression) | Bayesian regression on stellar data from the APOGEE survey | Python |
 | [Orbital-Mechanics](https://github.com/NirmalKumarMari/Orbital-Mechanics) | Orbit propagation code, shared with Husky Satellite Lab's approval | C++ |
 | [Texas-Real-Estate-Database](https://github.com/NirmalKumarMari/Texas-Real-Estate-Database) | Relational database design and queries for Texas real estate data | SQL |
-| [ChefBuddy](https://github.com/NirmalKumarMari/ChefBuddy) | A cooking assistant app for planning and making meals | |
+| [ChefBuddy](https://github.com/NirmalKumarMari/ChefBuddy) | A cooking assistant app for planning and making meals | Swift |
 
 ### 🛠️ Toolkit
 
